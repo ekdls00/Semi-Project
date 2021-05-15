@@ -1,2 +1,2 @@
-# Semmi-Project
+# Semi-Project
 GYM CARRY
